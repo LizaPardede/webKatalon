@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_cermatitestgmail.com</name>
+   <tag></tag>
+   <elementGuidId>92b66006-5d89-4d6c-996b-dc588dd689e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='safe-area']/div[2]/div[2]/div[3]/div/section/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ConfirmationModal_modal__subtitle__3ARDR > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68427318-c235-4e06-af37-20c80b653a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cermatitest@gmail.com</value>
+      <webElementGuid>c2f704d6-0eed-45e3-ab3c-4253af0493bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[@class=&quot;HeaderFooter_header-gap__3du2n&quot;]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi container_IbXrf ConfirmationModal_modal__2D03K&quot;]/div[@class=&quot;container__content_PdQYv&quot;]/section[@class=&quot;modal__body_RT-QJ&quot;]/p[@class=&quot;ConfirmationModal_modal__subtitle__3ARDR&quot;]/span[1]</value>
+      <webElementGuid>3f23d966-1ed3-4ad8-80ce-edd2921e8c23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div[2]/div[3]/div/section/p/span</value>
+      <webElementGuid>97e8d605-efaf-45d5-8edb-4cfc323f3618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email sudah terdaftar'])[1]/following::span[1]</value>
+      <webElementGuid>b073160f-d8d9-4d77-96ef-3071dec90a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/following::span[1]</value>
+      <webElementGuid>56523f98-ec3b-4162-bc50-09922b87bd52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[3]/preceding::span[1]</value>
+      <webElementGuid>e485ce0f-2183-466b-a685-c94fc2c717c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c6f2f9e-f3e9-4360-a5c2-a405a13c3708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='cermatitest@gmail.com']/parent::*</value>
+      <webElementGuid>bcce7241-b85c-44ea-91d5-83b85762290d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/p/span</value>
+      <webElementGuid>aca58781-5bf9-422c-8979-6a97fef9fc8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'cermatitest@gmail.com' or . = 'cermatitest@gmail.com')]</value>
+      <webElementGuid>de7b129e-73d1-4499-9782-686f50d1db71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
